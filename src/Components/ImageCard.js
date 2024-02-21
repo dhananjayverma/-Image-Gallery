@@ -25,7 +25,7 @@ const generateRandomTitle = () => {
 };
 
 const generateRandomPrice = () => {
-  return '$' + (Math.floor(Math.random() * 50) + 10); // Random price between $10 and $59
+  return '$' + (Math.floor(Math.random() * 50) + 10); 
 };
 
 const ImageCard = ({ imageUrl }) => {
