@@ -1,21 +1,3 @@
-// // ImageCard.js
-// import React from 'react';
-// import "../styles/ImageCrad.css";
-
-// const ImageCard = ({ title, price, imageUrl }) => {
-//   return (
-//     <div className="image-card">
-//       <img src={imageUrl} alt={title} />
-//       <div className="image-details">
-//         <h3>{title}</h3>
-//         <p>{price}</p>
-//       </div>
-//     </div>
-//   );
-// }
-// export default ImageCard;
-
-
 import React from 'react';
 import "../styles/ImageCrad.css";
 
